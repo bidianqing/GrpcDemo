@@ -1,4 +1,4 @@
-namespace aspnetcoreapp;
+namespace csharpapp;
 
 public class WeatherForecast
 {

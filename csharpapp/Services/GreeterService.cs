@@ -1,7 +1,7 @@
 using Grpc.Core;
 using GrpcGreeter;
 
-namespace aspnetcoreapp
+namespace csharpapp
 {
     public class GreeterService : Greeter.GreeterBase
     {
