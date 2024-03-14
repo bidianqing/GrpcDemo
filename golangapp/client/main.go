@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 	"fmt"
-	"golangapp/Protos/greet"
+	"golangapp/client/Protos/greet"
 	"time"
 
 	"google.golang.org/grpc"
